@@ -1,2 +1,9 @@
-Diagrama de Excalidraw para Taller-1:
+Problema: sistema de cajero virtual para supermercado
+Diseño de un sistema interactivo en consola que permita a un usuario simular una compra en un supermercado, gestionando productos, cantidades, precios, y opciones de pago.
+
+
+
+
+
+Link diagrama de Excalidraw para Taller-1:
 https://excalidraw.com/#json=Va0EeXfD3RrNaQuOPYF1R,7eRyFi3uOTMSkRYDWBoUpQ
