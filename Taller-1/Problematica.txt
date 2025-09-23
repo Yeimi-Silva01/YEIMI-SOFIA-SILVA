@@ -6,4 +6,4 @@ Diseño de un sistema interactivo en consola que permita a un usuario simular un
 
 
 Link diagrama de Excalidraw para Taller-1:
-https://excalidraw.com/#json=Va0EeXfD3RrNaQuOPYF1R,7eRyFi3uOTMSkRYDWBoUpQ
+https://excalidraw.com/#json=gIgEUb-npEhPJ2uEyOLhp,OWGzXGMfqopOTgNFcVzsIw
