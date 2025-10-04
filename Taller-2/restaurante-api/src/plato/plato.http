@@ -1,0 +1,17 @@
+// Crear plato
+POST http://localhost:3000/platos
+Content-Type: application/json
+
+{
+    "nombre": "Arepa",
+    "precio": 12000
+}
+
+// Listar platos
+GET http://localhost:3000/platos
+
+// Obtener plato por id
+GET http://localhost:3000/platos/1
+
+// Eliminar plato
+DELETE http://localhost:3000/platos/1

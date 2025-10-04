@@ -1,0 +1,17 @@
+// Crear cliente
+POST http://localhost:3000/clientes
+Content-Type: application/json
+
+{
+    "nombre": "Juan Perez",
+    "email": "juan@example.com"
+}
+
+// Listar clientes
+GET http://localhost:3000/clientes
+
+// Obtener cliente por id
+GET http://localhost:3000/clientes/1
+
+// Eliminar cliente
+DELETE http://localhost:3000/clientes/1

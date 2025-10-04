@@ -1,0 +1,18 @@
+// Crear reserva
+POST http://localhost:3000/reservas
+Content-Type: application/json
+
+{
+    "clienteId": 1,
+    "platoId": 1,
+    "fecha": "2025-10-10T13:30:00"
+}
+
+// Listar reservas
+GET http://localhost:3000/reservas
+
+// Obtener reserva por id
+GET http://localhost:3000/reservas/1
+
+// Eliminar reserva
+DELETE http://localhost:3000/reservas/1

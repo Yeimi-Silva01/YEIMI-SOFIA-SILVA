@@ -1,0 +1,26 @@
+// Crear pedido
+POST http://localhost:3000/pedidos
+Content-Type: application/json
+
+{
+    "clienteId": 1,
+    "platoId": 1
+}
+
+// Listar pedidos
+GET http://localhost:3000/pedidos
+
+// Obtener pedido por id
+GET http://localhost:3000/pedidos/1
+
+// Actualizar pedido
+PUT http://localhost:3000/pedidos/1
+Content-Type: application/json
+
+{
+    "estado": "entregado",
+    "platoId": 2
+}
+
+// Eliminar pedido
+DELETE http://localhost:3000/pedidos/1
